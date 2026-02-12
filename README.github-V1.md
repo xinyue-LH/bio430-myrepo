@@ -34,7 +34,7 @@ Description of file formats used and why.
 
 ## Data Collection
 
-Describe how data was collected or generated.
+Collected by reports from hunters in BC, Canada.
 
 ## Data Processing
 

@@ -1,0 +1,28 @@
+---
+title: "Mock Manuscript V2"
+author: "xinyue"
+date: "2026-02-12"
+output:
+  pdf_document: default
+  html_document: default
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Article
+
+[@fu2024]
+
+[@hacioglu2024]
+
+[@compulso]
+
+[@forests]
+
+## References
+
+::: {#refs}
+:::

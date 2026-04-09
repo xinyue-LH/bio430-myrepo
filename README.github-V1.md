@@ -2,7 +2,7 @@
 
 ## Description
 
-Biol 430 Specalized Topics, 'Reproducibility in Scientific Research'.Mini Project using public accessible data.
+Biol 430 Specalized Topics, 'Reproducibility in Scientific Research'.Mini Project using public accessible data. Using Compulsory Inspection Data that is avalible publicly, to format a Mock Manuscript with steps to best insure reproducibility. 
 
 ## Date of Creation
 
